@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Fry",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/f/f2/PhilipJ.Fry.png/revision/latest?cb=20110916120042"
+  },
+  {
+    "id": 2,
+    "name": "leela",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/d/d4/Turanga_Leela.png/revision/latest?cb=20150218013044"
+  },
+  {
+    "id": 3,
+    "name": "Bender",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Bender_Rodriguez.png"
+  },
+  {
+    "id": 4,
+    "name": "Zoidberg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Dr_John_Zoidberg.png"
+  },
+  {
+    "id": 5,
+    "name": "Amy",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/FuturamaAmyWong.png"
+  },
+  {
+    "id": 6,
+    "name": "Prof Farnsworth",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/4/4e/Farnsworth.png/revision/latest?cb=20110710094500"
+  },
+  {
+    "id": 7,
+    "name": "Zapp Brannigan",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Captain_Zapp_Brannigan.png/175px-Captain_Zapp_Brannigan.png"
+  },
+  {
+    "id": 8,
+    "name": "Scruffy",
+    "image": "https://static.simpsonswiki.com/images/thumb/1/10/Scruffy.png/250px-Scruffy.png"
+  },
+  {
+    "id": 9,
+    "name": "Nibbler",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/1/19/Nibbler2.png/revision/latest?cb=20130406045731"
+  },
+  {
+    "id": 10,
+    "name": "Robot Devil",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/futuramaworldsoftomorrow_gamepedia_en/0/0b/RobotDevil.png"
+  },
+  {
+    "id": 11,
+    "name": "Lrrr",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/futuramaworldsoftomorrow_gamepedia_en/2/21/Character_Lrrr.png"
+  },
+  {
+    "id": 12,
+    "name": "Hedonismbot",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/futuramaworldsoftomorrow_gamepedia_en/thumb/5/56/Character_Hedonismbot.png/213px-Character_Hedonismbot.png?version=173ab50b6829e99ba037358a01ff42c5"
+  }
+]
